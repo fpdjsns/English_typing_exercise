@@ -1,0 +1,5 @@
+﻿  두더지잡기.cpp
+c:\users\bae hyunsu\documents\visual studio 2017\projects\mole_catching\mole_catching\두더지잡기.cpp(780): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\bae hyunsu\documents\visual studio 2017\projects\mole_catching\mole_catching\두더지잡기.cpp(790): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Mole_catching.vcxproj -> c:\users\bae hyunsu\documents\visual studio 2017\Projects\Mole_catching\Debug\Mole_catching.exe
+  Mole_catching.vcxproj -> c:\users\bae hyunsu\documents\visual studio 2017\Projects\Mole_catching\Debug\Mole_catching.pdb (Partial PDB)
